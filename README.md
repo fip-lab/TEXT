@@ -54,7 +54,7 @@ huggingface-cli download google-bert/bert-base-uncased --local-dir ./pretrained_
 
 ## Download Datasets
 MOSI/MOSEI/CH-SIMS original data: See [MMSA](https://github.com/thuiar/MMSA).  
-our prepared data download link: https://pan.baidu.com/s/1EDam_w-0UMXhZKGykWKUFw?pwd=fn96
+our prepared data download link: https://pan.baidu.com/s/1AIdAxFwMm_9fkv1OtZ1mbw?pwd=kpm2 提取码: kpm2
 
 ## Training
 To run the training script:
